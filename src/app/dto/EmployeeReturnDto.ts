@@ -1,4 +1,4 @@
-export interface Employee{
+export interface EmployeeReturnDto{
     id:number;
     fullName:string;
     email:string;

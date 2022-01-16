@@ -1,9 +1,7 @@
-export interface Employee{
-    id:number;
+export interface EmployeeGetDto{
     fullName:string;
     email:string;
     jobTitle:string;
     phone:string;
     imagePath:string;
-    employeeCode:string;
 }
